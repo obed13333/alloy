@@ -6,6 +6,8 @@ A web proxy for use in combating web filters.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloy/tree/master)
 
+[![Run on Repl.it](https://repl.it/badge/github/titaniumnetwork-dev/alloy.git)](https://repl.it/github/titaniumnetwork-dev/alloy.git)
+
 ## Running locally
 
 ```sh
